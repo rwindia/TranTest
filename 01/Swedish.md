@@ -1,28 +1,28 @@
-**Laboratoriejämförbar prestanda i hög hastighet**
+**Snabba provsvar med Lab-jämförbar prestanda**
 
-Utnyttjar testmetodiker som används i laboratorieanalysatorer, vilket möjliggör för vårdgivare att leverera laboratoriejämförbar prestanda och realtidsresultat vid patientens sida.
+Samma testmetoder som används i labsystem, gör det möjligt för vårdgivare att leverera snabba patientnära realtidsresultat med laboratorieprestanda.
 
-**Brett testutbud**
+**Bred Produktportfölj**
 
-Integrerar flera teknologier och provtyper i ett enda instrument, vilket möjliggör för en fortsatt utveckling av ett brett testutbud över tillstånd diagnostiserade och hanterade i samhällsbaserade vårdinställningar.
+Instrumentet är utvecklat för att hanterar ett flertal tekniker och provtyper, vilket möjliggör en fortsatt utveckling av en bred produktportfölj för patientnära användning.
 
-**Förbättrat ekonomiskt värde**
+**Ekonomiskt fördelaktig**
 
-Ersätter flera point-of-care system med en enda plattform, vilket ökar effektiviteten genom minskad utbildning, utrustning, underhåll och testförnödenheter.
+Ersätter flera patientnära system med en enda plattform, vilket genom förenklad utbildning samt en minskning av utrustning, underhåll och testtillbehör ger en ökad effektivitet.
 
-**Testarbetsflöde**
+**Analysens arbetsflöde**
 
-Instrumentet och Testremsorna är integrerade med flera kvalitetskontrollkontroller för att säkerställa att instrumentet och testet fungerar korrekt för varje testkörning.
+Instrument och Testkort är integrerade med ett flertal kvalitetskontroller för att säkerställa att Instrument och test fungerar korrekt vid varje testning.
 
-Arbetsflödesprocessen består av en enkel provsamling med en fingerstick-lansett följt av steg-för-steg vägledning av instrumentet för att rapportera ett patientresultat på 6 minuter från provansökan.
+Arbetsflödet består av en enkel provtagning med en fingerstickslansett, följt av en stegvis vägledning av Instrument för att rapportera ett patientresultat inom 6 minuter från provappliceringen.
 
-**Klinisk Prestanda**
+**Klinisk prestanda**
 
-En prospektiv klinisk studie genomfördes på 585 försökspersoner där färska prover (kapillärblod, venöst (blod med citrat) och plasma (med citrat)) samlades in från patienter som presenterade symptom på VTE (PE eller DVT) efter en Wells poängklassificering.
+En prospektiv klinisk studie utfördes på 585 försökspersoner, där färska prover (kapillärblod, venöst blod (citrerat) och plasma (citrerad)) samlades in från patienter med symtom på VTE (LE eller DVT) efter klassificering enligt Wells kliniska poängskala.
 
-**Resultat där du behöver dem**
+**Resultat när och där du behöver dem**
 
-- Enkel och intuitiv användargränssnitt som ger steg-för-steg testarbetsflöde.
-- Väger endast 1,1 kg, använder uppladdningsbart batteri eller nätström och kan förflytta sig dit patienten befinner sig.
-- Integrerar flera teknologier och provtyper i ett enda instrument.
-- Erbjuder laboratoriejämförbara resultat på några minuter vid patientens sida.
+- Enkelt och intuitivt användargränssnitt som tillhandahåller ett enkelt steg för steg analysarbetsflöde
+- Vikt 1,1kg, uppladdningsbart batteri eller nätström, kan användas oavsett var patienten befinner sig
+- Integrerar flera tekniker och provtyper i ett enda Instrument
+- Patientnära realtidsresultat med laboratorieprestanda inom några minuter

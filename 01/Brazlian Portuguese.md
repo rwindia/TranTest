@@ -1,28 +1,28 @@
-**Desempenho comparável ao laboratório com rapidez**
+**Desempenho comparável ao laboratório central, com agilidade**
 
-Aproveita metodologias de teste utilizadas em sistemas de análise laboratorial, permitindo que os profissionais de saúde forneçam um desempenho comparável ao do laboratório e resultados em tempo real no ponto de atendimento.
+Utiliza as mesmas metodologias empregadas no laboratório central, conferindo aos profissionais da saúde resultados em tempo real no local de atendimento com desempenho equivalente.
 
-**Menu amplo de testes**
+**Amplo menu teste**
 
-Integra diversas tecnologias e tipos de amostras em um único Instrumento, possibilitando o desenvolvimento contínuo de um extenso menu de testes para condições diagnosticadas e tratadas em ambientes de saúde baseados na comunidade.
+Integra várias tecnologias e tipos de amostras em um único instrumento, permitindo o desenvolvimento contínuo de um amplo menu de testes diagnósticos gerenciados em ambientes baseados nas necessidades da sociedade.
 
-**Melhor valor econômico**
+**Melhor custo-benefício**
 
-Substitui múltiplos sistemas de ponto de atendimento por uma única Plataforma, aumentando a eficiência através da redução no treinamento, equipamentos, manutenção e insumos de teste.
+Substitui vários sistemas de “POCT” em uma única plataforma, otimizando o treinamento, manutenção do instrumento e suprimentos de testes.
 
 **Fluxo de trabalho do teste**
 
-O Instrumento e as Tiras de Teste são integrados com várias verificações de controle de qualidade para assegurar que o Instrumento e o teste estão funcionando corretamente a cada execução.
+O Instrument e as Tiras de Teste são integrados a várias verificações de Controle de Qualidade para garantir que o Instrument e as Tiras de Teste estejam funcionando corretamente em cada teste executado.
 
-O processo de fluxo de trabalho consiste em uma coleta simples de amostra com uma lanceta para punção digital, seguida por uma orientação passo a passo do Instrumento para relatar um resultado do paciente em 6 minutos após a aplicação da amostra.
+O processo do fluxo de trabalho compreende uma simples coleta de amostra com uma lanceta de punção digital, seguida pela orientação passo a passo do Instrument para relatar o resultado de um paciente em 6 minutos a partir da aplicação da amostra.
 
-**Desempenho Clínico**
+**Desempenho clínico**
 
-Um estudo clínico prospectivo foi realizado com 585 participantes onde amostras frescas (sangue capilar, sangue venoso (citrado) e plasma (citrado)) foram coletadas de pacientes apresentando sintomas de TEV (EP ou TEP) de acordo com uma classificação de escore de Wells.
+Um estudo clínico prospectivo foi realizado em 585 participantes, com a coleta de amostras frescas (sangue capilar, venoso [sangue citratado] e plasma [citratado]) de pacientes que apresentavam sintomas de TEV (EP ou TVP) depois de uma classificação usando a pontuação de Wells.
 
-**Resultados onde você precisa**
+**Resultados ao seu alcance**
 
-- Interface de usuário simples e intuitiva que fornece um fluxo de trabalho de teste passo a passo
-- Pesa somente 1,1kg, utiliza bateria recarregável ou energia elétrica, e pode ser levado para qualquer lugar onde o paciente esteja
-- Integra diversas tecnologias e tipos de amostra em um único Instrumento
-- Oferece resultados comparáveis aos de laboratório em minutos no ponto de atendimento.
+- Interface de usuário simples e intuitiva que fornece fluxo de trabalho de teste passo-a-passo
+- Pesa apenas 1,1 kg, usa bateria recarregável ou energia da rede elétrica e é capaz de ir onde quer que o paciente esteja
+- Integra várias tecnologias e tipos de amostra em um único instrumento
+- Oferece resultados comparáveis ao laboratório em minutos no local de atendimento

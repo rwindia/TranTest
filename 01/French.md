@@ -1,28 +1,28 @@
-**Performance comparable à celle d'un laboratoire à grande vitesse**
+**Performances comparables à celles des automates de laboratoire**
 
-Exploite les méthodologies de test utilisées dans les systèmes d'analyse de laboratoire, permettant aux professionnels de santé de fournir une performance comparable à celle d'un laboratoire et des résultats en temps réel au point de soin.
+L’automate emploie des méthodes de mesures similaires à celles des analyseurs de laboratoire, ce qui permet d’offrir des performances comparables à celles d’un laboratoire et des résultats de qualité en temps réel au plus près des patients.
 
-**Large menu de tests**
+**Vaste gamme de tests**
 
-Intègre plusieurs technologies et types d'échantillons dans un seul instrument, permettant un développement continu d'un large menu de tests pour des conditions diagnostiquées et gérées dans des environnements de soins de santé communautaires.
+L’intégration de plusieurs technologies et types d’échantillons dans un seul Instrument va permettre le développement continu d’une vaste gamme de tests pour toutes les grandes catégories de pathologies : maladies infectieuses, maladies cardiovasculaires, diabète, troubles de la coagulation.
 
-**Valeur économique améliorée**
+**Prise en compte des contraintes budgétaires**
 
-Remplace plusieurs systèmes de point de soin par une seule plateforme, augmentant l'efficacité grâce à la réduction de la formation, de l'équipement, de la maintenance et des fournitures de test.
+La possibilité de remplacer de nombreux systèmes de biologie délocalisée par une seule Plateforme augmente l’efficacité en réduisant les besoins en formation, en maintenance et simplifie la gestion des stocks.
 
-**Flux de travail de test**
+**Flux de travail du test**
 
-L'instrument et les bandelettes de test sont intégrés avec plusieurs contrôles de qualité pour garantir que l'instrument et le test fonctionnent correctement à chaque passage.
+L’Instrument et les Cartes Microfluidiques intègrent plusieurs vérifications de contrôles de qualité intégrés afin de garantir le bon fonctionnement de l’Instrument et de la carte lors de la réalisation de chaque test.
 
-Le processus de flux de travail comprend une simple collecte d'échantillon avec une lancette pour le bout du doigt suivie d'une orientation étape par étape de l'instrument pour rapporter un résultat de patient en 6 minutes après l'application de l'échantillon.
+Le flux de travail est constitué d’un simple prélèvement d’échantillon au bout du doigt à l’aide d’une lancette, suivi d’un tutoriel de l’Instrument, étape par étape, pour afficher le résultat du test dans les 6 minutes suivant l’application de l’échantillon.
 
-**Performance Clinique**
+**Performances cliniques**
 
-Une étude clinique prospective a été réalisée sur 585 sujets où des échantillons frais (sang capillaire, sang veineux (citré) et plasma (citré)) ont été prélevés sur des patients présentant des symptômes de MTEV (EP ou TVP) suivant une classification de score de Wells.
+Une étude clinique prospective a été réalisée sur 585 sujets où des échantillons frais (sang capillaire, veineux (sang citraté) et plasma (citraté)) ont été prélevés chez des patients présentant des symptômes de TEV (EP ou TVP) d’après une classification du score de Wells.
 
-**Résultats là où vous en avez besoin**
+**Les résultats là où vous en avez besoin**
 
-- Interface utilisateur simple et intuitive qui fournit un flux de travail de test étape par étape.
-- Pèse seulement 1,1 kg, utilise une batterie rechargeable ou le courant secteur, et peut se déplacer où que soit le patient.
-- Intègre plusieurs technologies et types d'échantillons dans un seul instrument.
-- Offre des résultats comparables à ceux d'un laboratoire en quelques minutes au point de soin.
+- Interface utilisateur simple et intuitive
+- Pèse seulement 1,1 kg, utilise une batterie rechargeable ou l’alimentation secteur, et est capable de suivre le patient où qu'il se trouve
+- Intègre plusieurs technologies et types d’échantillons dans un seul Instrument
+- Offre des résultats comparables aux résultats de laboratoire en quelques minutes sur le lieu des soins
