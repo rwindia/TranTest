@@ -1,28 +1,28 @@
 **Rendimiento comparable al de un laboratorio a alta velocidad**
 
-Aprovecha las metodologías de prueba utilizadas en sistemas analizadores de laboratorio, permitiendo a los proveedores de atención médica ofrecer un rendimiento comparable al de un laboratorio y resultados en tiempo real en el punto de atención.
+Utiliza metodologías de prueba utilizadas en sistemas de análisis de laboratorio, lo que permite a los proveedores de atención médica ofrecer un rendimiento comparable al de un laboratorio y obtener resultados en tiempo real en el punto de atención.
 
-**Amplio menú de pruebas**
+**Menú de pruebas amplio**
 
-Integra varias tecnologías y tipos de muestra en un único instrumento, lo que permite un desarrollo continuo de un amplio menú de pruebas en condiciones diagnosticadas y tratadas en entornos de salud comunitaria.
+Integra varias tecnologías y tipos de muestras en un solo instrumento, lo que permite un desarrollo continuo de un amplio menú de pruebas para condiciones diagnosticadas y tratadas en entornos de atención médica comunitarios.
 
-**Mayor valor económico**
+**Valor económico mejorado**
 
-Reemplaza múltiples sistemas de punto de atención con una sola Plataforma, aumentando la eficiencia al reducir la capacitación, el equipo, el mantenimiento y los suministros de pruebas.
+Reemplaza múltiples sistemas de puntos de atención con una sola Plataforma, aumentando la eficiencia mediante la reducción de capacitación, equipo, mantenimiento y suministros de pruebas.
 
-**Flujo de trabajo del test**
+**Flujo de prueba**
 
-El Instrumento y las Tiras de Prueba están integrados con varios controles de calidad para garantizar que el Instrumento y la prueba funcionen correctamente en cada ejecución del test.
+El instrumento y las tiras de prueba están integradas con varios controles de calidad para asegurar que el instrumento y la prueba funcionen correctamente en cada ejecución de prueba.
 
-El proceso de flujo de trabajo consta de una recolección de muestra simple con una lanceta de punción digital, seguido de una guía paso a paso del Instrumento para informar de un resultado del paciente en 6 minutos después de la aplicación de la muestra.
+El proceso de flujo de trabajo está compuesto por una simple colección de muestras con un lanceta para punción capilar, seguido de una guía paso a paso del Instrumento para informar un resultado del paciente en 6 minutos desde la aplicación de la muestra.
 
-**Desempeño Clínico**
+**Rendimiento clínico**
 
-Se llevó a cabo un estudio clínico prospectivo en 585 sujetos en el que se recogieron muestras frescas (sangre capilar, sangre venosa (con citrato) y plasma (con citrato)) de pacientes que presentaban síntomas de ETV (EP o TVP) siguiendo una clasificación del puntaje de Wells.
+Se realizó un estudio clínico prospectivo en 585 sujetos donde se recolectaron muestras frescas (sangre capilar, venosa (sangre con citrato) y plasma (citrado)) de pacientes que presentaban síntomas de VTE (EP o TVP) siguiendo una clasificación según el puntaje de Wells.
 
-**Resultados donde los necesita**
+**Resultados donde los necesite**
 
-- Interfaz de usuario simple e intuitiva que proporciona un flujo de trabajo de prueba paso a paso.
-- Pesa solo 1,1 kg, utiliza batería recargable o energía de la red, y es capaz de trasladarse donde se encuentre el paciente.
-- Integra varias tecnologías y tipos de muestra en un único Instrumento.
-- Ofrece resultados comparables a los de laboratorio en minutos en el punto de atención.
+- Interfaz de usuario simple e intuitiva que ofrece un flujo de trabajo de prueba paso a paso.
+- Pesa solo 1.1 kg, utiliza una batería recargable o energía eléctrica y es capaz de ir a donde sea que se encuentre el paciente.
+- Integra varias tecnologías y tipos de muestras en un solo instrumento.
+- Ofrece resultados comparables a los de laboratorio en cuestión de minutos en el punto de atención
